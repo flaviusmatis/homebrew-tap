@@ -4,7 +4,7 @@ class Smartcard < Formula
   version "1.0.0"
 
   url "https://github.com/flaviusmatis/homebrew-tap/releases/download/v1.0.0/smartcard-1.0.0-darwin-arm64.tar.gz"
-  sha256 "4743de370ca7aae1986f286055344def302c877aaec5ce263a567b7fc28b52f3"
+  sha256 "ebd4574fb745da2c4fef0a770765ddbabf724e952cb78f288aea82614b54835e"
 
   def install
     bin.install "smartcard"
