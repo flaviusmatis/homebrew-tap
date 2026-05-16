@@ -1,10 +1,10 @@
 class Smartcard < Formula
   desc "Smartcard signing service with live activity TUI"
   homepage "https://github.com/flaviusmatis/homebrew-tap"
-  version "1.0.1"
+  version "1.0.2"
 
-  url "https://github.com/flaviusmatis/homebrew-tap/releases/download/v1.0.1/smartcard-1.0.1-darwin-arm64.tar.gz"
-  sha256 "0cfafe7b6cf53471cae7605605ceec0566e0596c0d653f15e355e3ce3feedfe0"
+  url "https://github.com/flaviusmatis/homebrew-tap/releases/download/v1.0.2/smartcard-1.0.2-darwin-arm64.tar.gz"
+  sha256 "b560349063d5ab3033a7504dcf8c5ef485df5320d3491dd94361f93a5bac796a"
 
   def install
     bin.install "smartcard"
